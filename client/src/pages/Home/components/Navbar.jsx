@@ -1,11 +1,10 @@
-import React from "react";
-import styled from "styled-components";
+import React from 'react'
+import styled from 'styled-components'
 import AccountCircleOutlinedIcon from "@mui/icons-material/AccountCircleOutlined";
-import LogoIcon from "./Logo.svg"; // Add this import
 
 const Container = styled.div`
-  width: 90%;
-  max-width: 1320px;
+width: 90%;
+max-width: 1320px;
   height: 60px;
   margin: 12px 14px;
   display: flex;
@@ -15,19 +14,10 @@ const Container = styled.div`
     padding: 0px 20px !important;
   }
 `;
-
 const Logo = styled.h1`
   font-weight: 600;
   font-size: 20px;
   color: ${({ theme }) => theme.primary};
-  display: flex;
-  align-items: center;
-  gap: 10px;
-`;
-
-// Add the Image styled component
-const Image = styled.img`
-  height: 32px;
 `;
 
 const Menu = styled.ul`
@@ -52,6 +42,8 @@ const MenuItem = styled.a`
   }
 `;
 
+
+
 const Button = styled.button`
   padding: 5px 18px;
   background-color: transparent;
@@ -71,13 +63,13 @@ const Button = styled.button`
     color: ${({ theme }) => theme.text};
   }
 `;
-
 const Navbar = ({ setSignInOpen }) => {
+
   return (
     <Container>
       <Logo>
-        <Image src={LogoIcon}  />
-        PROJECTRA
+        <Image src={LogoIcon} />
+                    PROJECTRA
       </Logo>
       <Menu>
         <MenuItem href="#home">Home</MenuItem>
@@ -88,8 +80,9 @@ const Navbar = ({ setSignInOpen }) => {
       <Button onClick={() => setSignInOpen(true)}>
         <AccountCircleOutlinedIcon /> Sign In
       </Button>
-    </Container>
-  );
-};
 
-export default Navbar;
+    </Container>
+  )
+}
+
+export default Navbar
