@@ -29,6 +29,7 @@ import { useNavigate } from 'react-router-dom';
 import { Avatar, CircularProgress } from "@mui/material";
 import Skeleton from "@mui/material/Skeleton";
 
+
 const Container = styled.div`
   flex: 1.3;
   background-color: ${({ theme }) => theme.bgLighter};
