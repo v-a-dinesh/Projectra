@@ -67,10 +67,7 @@ const Navbar = ({ setSignInOpen }) => {
 
   return (
     <Container>
-      <Logo>
-        <Image src={LogoIcon} />
-                    PROJECTRA
-      </Logo>
+      <Logo>PROJECTRA</Logo>
       <Menu>
         <MenuItem href="#home">Home</MenuItem>
         <MenuItem href="#features">Features</MenuItem>
