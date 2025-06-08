@@ -135,26 +135,34 @@ The frontend will run at `http://localhost:3000` and the backend at `http://loca
 
 ---
 
-## 🌟 Contribution
-
+🌟 Contribution
 We welcome contributions! Please feel free to:
 
-1. Fork the repo.
-2. Create a feature branch.
-3. Submit a pull request with your changes.
+Fork the repo and create your own copy.
+Create a feature branch (git checkout -b feature/AmazingFeature).
+Commit your changes (git commit -m 'Add some AmazingFeature').
+Push to the branch (git push origin feature/AmazingFeature).
+Open a Pull Request with a detailed description of your changes.
 
----
+For major changes or collaboration opportunities, feel free to reach out via email: dineshvaprojects@gmail.com
 
-## 📞 Support
+📞 Support & Contact
+If you encounter issues or need assistance:
 
-If you encounter issues, please open an issue in the GitHub repository or contact the maintainer.
+🐛 Bug Reports: Open an issue in the GitHub repository
+💡 Feature Requests: Submit your ideas through GitHub issues
+🤝 Collaboration: Contact the maintainer at dineshvaprojects@gmail.com
+💬 General Questions: Feel free to reach out via email
 
----
 
-## 🔗 Repository
+🔗 Repository
+Visit the project repository: https://github.com/v-a-dinesh/Projectra
 
-Visit the project repository: [https://github.com/v-a-dinesh/Projectra](https://github.com/v-a-dinesh/Projectra)
+👨‍💻 Author
+Dinesh V A
 
----
+📧 Email: dineshvaprojects@gmail.com
+🐙 GitHub: @v-a-dinesh
 
-## 🎉 Thank you for checking out Projectra! Let's build amazing projects together!
+
+🎉 Thank you for checking out Projectra! Let's build amazing projects together!
