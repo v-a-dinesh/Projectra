@@ -135,34 +135,43 @@ The frontend will run at `http://localhost:3000` and the backend at `http://loca
 
 ---
 
-🌟 Contribution
+## 🌟 Contribution
+
 We welcome contributions! Please feel free to:
 
-Fork the repo and create your own copy.
-Create a feature branch (git checkout -b feature/AmazingFeature).
-Commit your changes (git commit -m 'Add some AmazingFeature').
-Push to the branch (git push origin feature/AmazingFeature).
-Open a Pull Request with a detailed description of your changes.
+1. **Fork the repo** and create your own copy.
+2. **Create a feature branch** (`git checkout -b feature/AmazingFeature`).
+3. **Commit your changes** (`git commit -m 'Add some AmazingFeature'`).
+4. **Push to the branch** (`git push origin feature/AmazingFeature`).
+5. **Open a Pull Request** with a detailed description of your changes.
 
-For major changes or collaboration opportunities, feel free to reach out via email: dineshvaprojects@gmail.com
+For major changes or collaboration opportunities, feel free to reach out via email: **dineshvaprojects@gmail.com**
 
-📞 Support & Contact
+---
+
+## 📞 Support & Contact
+
 If you encounter issues or need assistance:
 
-🐛 Bug Reports: Open an issue in the GitHub repository
-💡 Feature Requests: Submit your ideas through GitHub issues
-🤝 Collaboration: Contact the maintainer at dineshvaprojects@gmail.com
-💬 General Questions: Feel free to reach out via email
+- 🐛 **Bug Reports**: Open an issue in the [GitHub repository](https://github.com/v-a-dinesh/Projectra/issues)
+- 💡 **Feature Requests**: Submit your ideas through GitHub issues
+- 🤝 **Collaboration**: Contact the maintainer at **dineshvaprojects@gmail.com**
+- 💬 **General Questions**: Feel free to reach out via email
 
+---
 
-🔗 Repository
-Visit the project repository: https://github.com/v-a-dinesh/Projectra
+## 🔗 Repository
 
-👨‍💻 Author
-Dinesh V A
+Visit the project repository: [https://github.com/v-a-dinesh/Projectra](https://github.com/v-a-dinesh/Projectra)
 
-📧 Email: dineshvaprojects@gmail.com
-🐙 GitHub: @v-a-dinesh
+---
 
+## 👨‍💻 Author
 
-🎉 Thank you for checking out Projectra! Let's build amazing projects together!
+**Dinesh V A**
+- 📧 Email: dineshvaprojects@gmail.com
+- 🐙 GitHub: [@v-a-dinesh](https://github.com/v-a-dinesh)
+
+---
+
+## 🎉 Thank you for checking out Projectra! Let's build amazing projects together!
